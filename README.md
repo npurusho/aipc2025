@@ -1,1 +1,1 @@
-# iisc_eo294_npu_assignment
+## AMD NPU Examples and Assignment
