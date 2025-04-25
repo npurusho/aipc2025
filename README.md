@@ -1,6 +1,8 @@
 ## AMD NPU Examples and Assignment
+### Clone the Repo
 
-Clone this repo using:
+##### Copy the below code and run it in a Jupyter notebook in the Ryzen™ AI AUP Cloud 
+---
 ```Python
 !pip install pygit2
 
@@ -16,5 +18,5 @@ local_path = "./sjsu"
 repo = pygit2.clone_repository(repo_url, local_path)
 
 print("Repo cloned at:", repo.workdir)
-
 ```
+---
