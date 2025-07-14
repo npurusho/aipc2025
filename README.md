@@ -9,10 +9,10 @@
 import pygit2
 
 # URL of the Git repository
-repo_url = "https://github.com/npurusho/uci.git"
+repo_url = "https://github.com/npurusho/aipc2025.git"
 
 # Path to clone into
-local_path = "./uci"
+local_path = "./aipc2025"
 
 # Clone the repo
 repo = pygit2.clone_repository(repo_url, local_path)
